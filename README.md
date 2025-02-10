@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c0f0564a-7619-4ed5-bdaf-f0c8513d8377)
+
 # Sorting Visualizer
 
 We have learnt many sorting algorithms. But often we fail to understand the core idea of a particular algorithm maybe because we are unable to visualize how they work. So the most important thing to understand about these algorithms is visualization. 
@@ -6,7 +6,7 @@ We have learnt many sorting algorithms. But often we fail to understand the core
 So decided to Create a web application using HTML, CSS, JavaScript to visualize how various sorting algorithms work and how elements are swapped in the array to get to the sorted array in the end.
 ## Screenshots
 
-![Uploading Screenshot 2025-02-10 131125.png…]()
+![image](https://github.com/user-attachments/assets/c0f0564a-7619-4ed5-bdaf-f0c8513d8377)
 
 
 
