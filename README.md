@@ -4,6 +4,9 @@
 We have learnt many sorting algorithms. But often we fail to understand the core idea of a particular algorithm maybe because we are unable to visualize how they work. So the most important thing to understand about these algorithms is visualization. 
 
 So decided to Create a web application using HTML, CSS, JavaScript to visualize how various sorting algorithms work and how elements are swapped in the array to get to the sorted array in the end.
+## Screenshots
+
+
 
 
 ## Features
@@ -37,3 +40,5 @@ So decided to Create a web application using HTML, CSS, JavaScript to visualize 
 ## Conclusion
 This was my first project which I was deploying the website live. This was a great learning experience for me creating a full application from scratch.
 Thanks to the Crio community for providing the amazing learning experience with #learnbydoing projects.
+
+
