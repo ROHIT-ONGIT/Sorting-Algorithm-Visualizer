@@ -41,4 +41,7 @@ So decided to Create a web application using HTML, CSS, JavaScript to visualize 
 This was my first project which I was deploying the website live. This was a great learning experience for me creating a full application from scratch.
 Thanks to the Crio community for providing the amazing learning experience with #learnbydoing projects.
 
+**##Live demo of Project**
+https://sorting-visualizer-rohitkumr.netlify.app/
+
 
